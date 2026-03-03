@@ -13,6 +13,6 @@ Python-based cloud cost intelligence system detecting anomalies, forecasting spe
 - Docker
 
 ## Setup
-pip install -r requirements.txt
-python -m uvicorn app.api:app --reload
-streamlit run dashboard/dashboard.py
+- pip install -r requirements.txt
+- python -m uvicorn app.api:app --reload
+- streamlit run dashboard/dashboard.py
