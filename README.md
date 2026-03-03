@@ -16,6 +16,7 @@ Built with a product-oriented mindset, this system demonstrates backend architec
 - FastAPI analytics service for integration
 - Streamlit dashboard for real-time visualization
 
+![Output](image-2.png)
 ---
 
 ## Architecture
