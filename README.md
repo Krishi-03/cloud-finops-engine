@@ -35,21 +35,18 @@ Built with a product-oriented mindset, this system demonstrates backend architec
 
 ---
 
----
-
 ## Setup Guide
 
 ### 1. Clone Repository
 
-git clone https://github.com/
-<your-username>/cloud-finops-engine.git
-cd cloud-finops-engine
+- git clone https://github.com/<your-username>/cloud-finops-engine.git
+- cd cloud-finops-engine
 
 ### 2. Create Virtual Environment (Recommended)
 
-python -m venv venv
-Windows: venv\Scripts\activate
-Mac/Linux: source venv/bin/activate
+- python -m venv venv
+- Windows: venv\Scripts\activate
+- Mac/Linux: source venv/bin/activate
 
 ### 3. Install Dependencies
 
